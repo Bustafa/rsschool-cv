@@ -1,2 +1,1 @@
-# rsschool-cv
-Rolling Scopes School tasks 2022q2
+https://Bustafa.github.io/rsschool-cv/cv
